@@ -21,7 +21,7 @@ Following are the important components to these pages
 - Clone the repository using 
 - Install all the modules by using `npm i` or `npm install` or `yarn install`
 - Navigate to <a href="https://razorpay.com/" target="_blank">Razorpay</a> and create an account
-- Generate the API keys in the Test Mode from Razor PAy dashboard and Save in .env file
+- Generate the API keys in the Test Mode from Razorpay Dashboard and Save in .env file
 - Build the next application by running `npm run build`
 - Run the local  server by using `npm start`
 - For getting the Test CC details <a href="https://razorpay.com/docs/payments/payments/test-card-upi-details/" target="blank">Check Here</a>
