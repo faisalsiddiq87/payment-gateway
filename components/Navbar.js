@@ -12,11 +12,6 @@ export const Navbar = () => {
               Transactions
             </Link>
           </li>
-          <li className="text-gray-400">
-            <Link href="#" className="text-gray-400 text-sm tracking-wide font-light" style="rgb(156 163 175/var(--tw-text-opacity));">
-              Product
-            </Link>
-          </li>
         </ul>
       </div>
       <div className="flex flex-row space-x-10 items-center">
